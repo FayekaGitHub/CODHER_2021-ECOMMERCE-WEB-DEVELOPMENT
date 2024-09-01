@@ -15,9 +15,6 @@ Crafted with modern HTML and CSS techniques.
 The backend is powered by PHP and MySQL, ensuring reliable data management and efficient handling of user interactions.
 - JavaScript: Enhanced with JavaScript for interactive features.
 
-![image](https://github.com/user-attachments/assets/0f5a19be-c12c-424a-be94-b7ffdef0a1e7)
-
-![image](https://github.com/user-attachments/assets/d51325a4-5bd1-4dbd-bc82-c61251d1383d)
 
 
 
